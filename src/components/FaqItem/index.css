@@ -1,0 +1,49 @@
+/* Write your code here. */
+.list-con {
+  border: 1px solid #e4e7eb;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.head1 {
+  color: #52606d;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  height: 13px;
+  width: 13px;
+  margin: 10px;
+}
+
+.image {
+  height: 13px;
+  width: 13px;
+}
+
+.hr {
+  background-color: #e4e7eb;
+  width: 98%;
+  margin: 5px;
+}
+
+.para1 {
+  color: #9aa5b1;
+  font-size: 13px;
+}
